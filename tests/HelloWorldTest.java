@@ -6,6 +6,7 @@ class HelloWorldTest {
     @Test
     public void passTest() {}
 
+
     @Test
     public void failTest() {
         fail();
